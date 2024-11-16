@@ -26,7 +26,7 @@ model users {
 
   // RELATIONS 
   studio        media?
-  subscriptions subscriptions?
+  subscription  subscriptions?
   workspaces    workspaces[]
   videos        videos[]
   comments      comments[]
